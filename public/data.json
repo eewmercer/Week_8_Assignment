@@ -1,0 +1,47 @@
+{
+    "Jane Austen": {
+      "books": {
+        "1": "pride & prejudice",
+        "2": "emma",
+        "3": "mansfield park",
+        "4": "sense & sensibility",
+        "5": "northanger abbey"
+      }
+    },
+    "Erin Hunter": {
+        "books": {
+            "1": "tallstar's revenge",
+            "2": "crookedstar's promise",
+            "3": "the power of three",
+            "4": "bluestar's prophecy",
+            "5": "into the wild"
+        }
+    },
+    "C. S. Lewis": {
+        "books": {
+            "1": "out of the silent planet",
+            "2": "the lion, the witch, and the wardrobe",
+            "3": "mere christianity",
+            "4": "the screwtape letters",
+            "5": "perelandra "
+        }
+    },
+    "J. R. Tolkien": {
+        "books": {
+            "1": "the fellowship of the ring",
+            "2": "the fall of gondolin",
+            "3": "the two towers",
+            "4": "the silmarillion",
+            "5": "the adventures of tom bombadil"
+        }
+    },
+    "Daniel Defoe": {
+        "books": {
+            "1": "the true-born englishman",
+            "2": "a journal of the plague year",
+            "3": "moll flanders",
+            "4": "robinson crusoe",
+            "5": "el fantasma"
+        }
+    }
+  }
